@@ -1,0 +1,1 @@
+Notas: Este proyecto usará un regulador de 5V
